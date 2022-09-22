@@ -10,7 +10,7 @@
         "location": "A101",
         "area": "Pallet, Main Warehouse",
         "available": 25
-    }
+    },
     {
         "id": 2,
         "palletname": "Pallet2",
@@ -22,7 +22,7 @@
         "location": "A101",
         "area": "Pallet, Main Warehouse",
         "available": 10
-    }
+    },
     {
         "id": 3,
         "palletname": "Pallet3",
@@ -34,7 +34,7 @@
         "location": "A101",
         "area": "Pallet, Main Warehouse",
         "available": 15
-    }
+    },
     {
         "id": 4,
         "palletname": "",
@@ -46,7 +46,7 @@
         "location": "A101",
         "area": "Pallet, Main Warehouse",
         "available": 15
-    }
+    },
     {
         "id": 5,
         "palletname": "",
