@@ -72,7 +72,7 @@
         "pic": "http://iskyworldsolution.com/test/product/productIcon/cokeZero.png",
         "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/cokeZero.png",
         "item": "1 Item",
-        "location": "A101",
+        "location": "C101",
         "area": "Pallet, Main Warehouse",
         "available": 15
     },
@@ -85,7 +85,7 @@
         "pic": "http://iskyworldsolution.com/test/product/productIcon/Yorkshire%20Tea.png",
         "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/YT.png",
         "item": "1 Item",
-        "location": "A101",
+        "location": "E101",
         "area": "Pallet, Main Warehouse",
         "available": 15
     },
@@ -111,7 +111,7 @@
         "pic": "http://iskyworldsolution.com/test/product/productIcon/warBis.png",
         "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/Warburt.png",
         "item": "1 Item",
-        "location": "A101",
+        "location": "G101",
         "area": "Pallet, Main Warehouse",
         "available": 15
     }
