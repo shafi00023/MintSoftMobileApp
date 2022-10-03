@@ -119,24 +119,29 @@
 "cartondata" : [
     {
         "id": 1,
-        "cartonname": "Carton1",
+        "cartonId": "12345",
         "productname": "Diet Coke",
         "psize": "DTCOKE1x330",
-        "item": "1 Item"
+        "pic": "http://iskyworldsolution.com/test/product/productIcon/dietCoke.png",
+        "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/dietCoke.png",
+        "item": "1 Item",
+        "location": "A101",
+        "area": "Pallet, Main Warehouse",
+        "available": 25
     },
     {
         "id": 2,
-         "cartonname": "Carton2",
-         "productname": "coke",
-         "psize": "COKEZRO4x330",
-         "item": "1 Item"
-    },
-    {
-        "id": 3,
-        "cartonname": "Carton3",
-        "productname": "Coke Zero",
+        "cartonId": "123456",
+        "productname": "Lilt",
         "psize": "COKEZRO4x330",
-        "item": "1 Item"
-    }
+        "pic": "http://iskyworldsolution.com/test/product/productIcon/litt.png",
+        "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/lilt.png",
+        "item": "1 Item",
+        "location": "A101",
+        "area": "Pallet, Main Warehouse",
+        "available": 10
+    },
+   
+    
 ]
 }
