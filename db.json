@@ -127,7 +127,8 @@
         "item": "1 Item",
         "location": "A101",
         "area": "Pallet, Main Warehouse",
-        "available": 25
+        "available": 25,
+        "palletId": 1234
     },
     {
         "id": 2,
@@ -139,7 +140,8 @@
         "item": "1 Item",
         "location": "A101",
         "area": "Pallet, Main Warehouse",
-        "available": 10
+        "available": 10,
+        "palletId": 1234
     }    
 ]
 }
