@@ -120,19 +120,23 @@
   "cartondata": [
     {
       "id": 1,
-      "cartonId": "12345",
       "item": "1 Item",
       "location": "A101",
       "area": "Pallet, Main Warehouse",
       "palletId": "1234",
-      "product": [
+      "cartons": [
         {
-          "id": "5001",
-          "available": 25,
-          "productname": "Diet Coke",
-          "psize": "DTCOKE1x330",
-          "pic": "http://iskyworldsolution.com/test/product/productIcon/dietCoke.png",
-          "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/dietCoke.png"
+          "cartonId": "59034",
+          "product": [
+            {
+              "id": "5001",
+              "available": 25,
+              "productname": "Diet Coke",
+              "psize": "DTCOKE1x330",
+              "pic": "http://iskyworldsolution.com/test/product/productIcon/dietCoke.png",
+              "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/dietCoke.png"
+            }
+          ]
         }
       ]
     }
