@@ -130,14 +130,15 @@
       "pic": "http://iskyworldsolution.com/test/product/productIcon/dietCoke.png",
       "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/dietCoke.png",
       "available": 25,
-      "topping": [
-        { "id": "5001", "type": "None" },
-        { "id": "5002", "type": "Glazed" },
-        { "id": "5005", "type": "Sugar" },
-        { "id": "5007", "type": "Powdered Sugar" },
-        { "id": "5006", "type": "Chocolate with Sprinkles" },
-        { "id": "5003", "type": "Chocolate" },
-        { "id": "5004", "type": "Maple" }
+      "product": [
+        {
+          "id": "5001",
+          "available": 25,
+          "productname": "Diet Coke",
+          "psize": "DTCOKE1x330",
+          "pic": "http://iskyworldsolution.com/test/product/productIcon/dietCoke.png",
+          "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/dietCoke.png"
+        }
       ]
     }
   ]
