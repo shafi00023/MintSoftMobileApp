@@ -1,157 +1,144 @@
-{ "data" : [
+{
+  "data": [
     {
-        "id": 1,
-        "name": "Small Box",
-        "size": "100 x 100  x 100cm",
-        "pname": "Half"
+      "id": 1,
+      "name": "Small Box",
+      "size": "100 x 100  x 100cm",
+      "pname": "Half"
     },
     {
-        "id": 2,
-        "name": "Medium Box",
-        "size": "200 x 200 x 200cm",
-        "pname": "Full"
+      "id": 2,
+      "name": "Medium Box",
+      "size": "200 x 200 x 200cm",
+      "pname": "Full"
     },
     {
-        "id": 3,
-        "name": "Large Box",
-        "size": "300 x 300 x 300cm",
-        "pname": "Double"
+      "id": 3,
+      "name": "Large Box",
+      "size": "300 x 300 x 300cm",
+      "pname": "Double"
     },
     {
-        "id": 4,
-        "name": "Extra Large Box",
-        "size": "400 x 400 x 400cm",
-        "pname": "Extra Large"
+      "id": 4,
+      "name": "Extra Large Box",
+      "size": "400 x 400 x 400cm",
+      "pname": "Extra Large"
     }
-],
-"carton": [
+  ],
+  "carton": [
     {
-        "id": 1,
-        "name": "carton"
+      "id": 1,
+      "name": "carton"
     }
-],
-"cartonid": [
+  ],
+  "cartonid": [
     {
-        "id": 1,
-        "cartonid": "98098"
+      "id": 1,
+      "cartonid": "98098"
     }
-],
-"palletdata" : [
+  ],
+  "palletdata": [
     {
-        "id": 1,
-        "palletname": "Pallet1",
-        "cartonname": "Carton1",
-        "productname": "Diet Coke",
-        "psize": "DTCOKE1x330",
-        "pic": "http://iskyworldsolution.com/test/product/productIcon/dietCoke.png",
-        "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/dietCoke.png",
-        "item": "1 Item",
-        "location": "A101",
-        "area": "Pallet, Main Warehouse",
-        "available": 25
+      "id": 1,
+      "palletname": "Pallet1",
+      "cartonname": "Carton1",
+      "productname": "Diet Coke",
+      "psize": "DTCOKE1x330",
+      "pic": "http://iskyworldsolution.com/test/product/productIcon/dietCoke.png",
+      "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/dietCoke.png",
+      "item": "1 Item",
+      "location": "A101",
+      "area": "Pallet, Main Warehouse",
+      "available": 25
     },
     {
-        "id": 2,
-        "palletname": "Pallet2",
-        "cartonname": "Carton2",
-        "productname": "Lilt",
-        "psize": "COKEZRO4x330",
-        "pic": "http://iskyworldsolution.com/test/product/productIcon/litt.png",
-        "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/lilt.png",
-        "item": "1 Item",
-        "location": "A101",
-        "area": "Pallet, Main Warehouse",
-        "available": 10
+      "id": 2,
+      "palletname": "Pallet2",
+      "cartonname": "Carton2",
+      "productname": "Lilt",
+      "psize": "COKEZRO4x330",
+      "pic": "http://iskyworldsolution.com/test/product/productIcon/litt.png",
+      "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/lilt.png",
+      "item": "1 Item",
+      "location": "A101",
+      "area": "Pallet, Main Warehouse",
+      "available": 10
     },
     {
-        "id": 3,
-        "palletname": "Pallet3",
-        "cartonname": "Carton3",
-        "productname": "Coke Zero",
-        "psize": "COKEZRO4x330",
-        "pic": "http://iskyworldsolution.com/test/product/productIcon/cokeZero.png",
-        "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/cokeZero.png",
-        "item": "1 Item",
-        "location": "C101",
-        "area": "Pallet, Main Warehouse",
-        "available": 15
+      "id": 3,
+      "palletname": "Pallet3",
+      "cartonname": "Carton3",
+      "productname": "Coke Zero",
+      "psize": "COKEZRO4x330",
+      "pic": "http://iskyworldsolution.com/test/product/productIcon/cokeZero.png",
+      "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/cokeZero.png",
+      "item": "1 Item",
+      "location": "C101",
+      "area": "Pallet, Main Warehouse",
+      "available": 15
     },
     {
-        "id": 4,
-        "palletname": "",
-        "cartonname": "Carton4",
-        "productname": "Yorkshire Tea",
-        "psize": "YRKSTEA",
-        "pic": "http://iskyworldsolution.com/test/product/productIcon/Yorkshire%20Tea.png",
-        "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/YT.png",
-        "item": "1 Item",
-        "location": "E101",
-        "area": "Pallet, Main Warehouse",
-        "available": 15
+      "id": 4,
+      "palletname": "",
+      "cartonname": "Carton4",
+      "productname": "Yorkshire Tea",
+      "psize": "YRKSTEA",
+      "pic": "http://iskyworldsolution.com/test/product/productIcon/Yorkshire%20Tea.png",
+      "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/YT.png",
+      "item": "1 Item",
+      "location": "E101",
+      "area": "Pallet, Main Warehouse",
+      "available": 15
     },
     {
-        "id": 5,
-        "palletname": "",
-        "cartonname": "",
-        "productname": "Semi-Skimmed Milk",
-        "psize": "SEMISKIMMLK",
-        "pic": "http://iskyworldsolution.com/test/product/productIcon/Semi-Skimmed%20M.png",
-        "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/milk.png",
-        "item": "1 Item",
-        "location": "A101",
-        "area": "Pallet, Main Warehouse",
-        "available": 15
+      "id": 5,
+      "palletname": "",
+      "cartonname": "",
+      "productname": "Semi-Skimmed Milk",
+      "psize": "SEMISKIMMLK",
+      "pic": "http://iskyworldsolution.com/test/product/productIcon/Semi-Skimmed%20M.png",
+      "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/milk.png",
+      "item": "1 Item",
+      "location": "A101",
+      "area": "Pallet, Main Warehouse",
+      "available": 15
     },
     {
-        "id": 6,
-        "palletname": "",
-        "cartonname": "",
-        "productname": "Warburtons Tea Cookies",
-        "psize": "WBTONSTEACKE",
-        "pic": "http://iskyworldsolution.com/test/product/productIcon/warBis.png",
-        "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/Warburt.png",
-        "item": "1 Item",
-        "location": "G101",
-        "area": "Pallet, Main Warehouse",
-        "available": 15
+      "id": 6,
+      "palletname": "",
+      "cartonname": "",
+      "productname": "Warburtons Tea Cookies",
+      "psize": "WBTONSTEACKE",
+      "pic": "http://iskyworldsolution.com/test/product/productIcon/warBis.png",
+      "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/Warburt.png",
+      "item": "1 Item",
+      "location": "G101",
+      "area": "Pallet, Main Warehouse",
+      "available": 15
     }
-],
-"cartondata" : [
+  ],
+  "cartondata": [
     {
-        "id": 1,
-        "cartonId": "12345",
-        "item": "1 Item",
-        "location": "A101",
-        "area": "Pallet, Main Warehouse",
-        "palletId": "1234",
-        "productname": "Diet Coke",
-        "psize": "DTCOKE1x330",
-        "pic": "http://iskyworldsolution.com/test/product/productIcon/dietCoke.png",
-        "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/dietCoke.png",
-        "available": 25,
-        "topping":
-		[
-			{ "id": "5001", "type": "None" },
-			{ "id": "5002", "type": "Glazed" },
-			{ "id": "5005", "type": "Sugar" },
-			{ "id": "5007", "type": "Powdered Sugar" },
-			{ "id": "5006", "type": "Chocolate with Sprinkles" },
-			{ "id": "5003", "type": "Chocolate" },
-			{ "id": "5004", "type": "Maple" }
-		]  
-    },
-    {
-        "id": 2,
-        "cartonId": "123456",
-        "productname": "Lilt",
-        "psize": "COKEZRO4x330",
-        "pic": "http://iskyworldsolution.com/test/product/productIcon/litt.png",
-        "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/lilt.png",
-        "item": "1 Item",
-        "location": "A101",
-        "area": "Pallet, Main Warehouse",
-        "available": 10,
-        "palletId": "12345"
-    }    
-]
+      "id": 1,
+      "cartonId": "12345",
+      "item": "1 Item",
+      "location": "A101",
+      "area": "Pallet, Main Warehouse",
+      "palletId": "1234",
+      "productname": "Diet Coke",
+      "psize": "DTCOKE1x330",
+      "pic": "http://iskyworldsolution.com/test/product/productIcon/dietCoke.png",
+      "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/dietCoke.png",
+      "available": 25,
+      "topping": [
+        { "id": "5001", "type": "None" },
+        { "id": "5002", "type": "Glazed" },
+        { "id": "5005", "type": "Sugar" },
+        { "id": "5007", "type": "Powdered Sugar" },
+        { "id": "5006", "type": "Chocolate with Sprinkles" },
+        { "id": "5003", "type": "Chocolate" },
+        { "id": "5004", "type": "Maple" }
+      ]
+    }
+  ]
 }
