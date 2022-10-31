@@ -47,7 +47,7 @@
       "pic": "http://iskyworldsolution.com/test/product/productIcon/dietCoke.png",
       "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/dietCoke.png",
       "item": "1 Item",
-      "location": "A101",
+      "location": "D101",
       "area": "Pallet, Main Warehouse",
       "available": 25
     },
@@ -60,7 +60,7 @@
       "pic": "http://iskyworldsolution.com/test/product/productIcon/litt.png",
       "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/lilt.png",
       "item": "1 Item",
-      "location": "A101",
+      "location": "D101",
       "area": "Pallet, Main Warehouse",
       "available": 10
     },
@@ -73,7 +73,7 @@
       "pic": "http://iskyworldsolution.com/test/product/productIcon/cokeZero.png",
       "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/cokeZero.png",
       "item": "1 Item",
-      "location": "C101",
+      "location": "D101",
       "area": "Pallet, Main Warehouse",
       "available": 15
     },
@@ -86,7 +86,7 @@
       "pic": "http://iskyworldsolution.com/test/product/productIcon/Yorkshire%20Tea.png",
       "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/YT.png",
       "item": "1 Item",
-      "location": "E101",
+      "location": "D101",
       "area": "Pallet, Main Warehouse",
       "available": 15
     },
@@ -99,7 +99,7 @@
       "pic": "http://iskyworldsolution.com/test/product/productIcon/Semi-Skimmed%20M.png",
       "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/milk.png",
       "item": "1 Item",
-      "location": "A101",
+      "location": "D101",
       "area": "Pallet, Main Warehouse",
       "available": 15
     },
@@ -112,7 +112,7 @@
       "pic": "http://iskyworldsolution.com/test/product/productIcon/warBis.png",
       "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/Warburt.png",
       "item": "1 Item",
-      "location": "G101",
+      "location": "D101",
       "area": "Pallet, Main Warehouse",
       "available": 15
     }
