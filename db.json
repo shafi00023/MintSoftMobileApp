@@ -25,18 +25,7 @@
       "pname": "Extra Large"
     }
   ],
-  "carton": [
-    {
-      "id": 1,
-      "name": "carton"
-    }
-  ],
-  "cartonid": [
-    {
-      "id": 1,
-      "cartonid": "98098"
-    }
-  ],
+
   "palletdata": [
     {
       "id": 1,
