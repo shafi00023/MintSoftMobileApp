@@ -223,35 +223,6 @@
                   "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/YT.png"
                 }
               ]
-            },
-            {
-              "cartonId": "3411",
-              "product": [
-                {
-                  "id": "5006",
-                  "available": 25,
-                  "productname": "Lilt",
-                  "psize": "COKEZRO4x330",
-                  "pic": "http://iskyworldsolution.com/test/product/productIcon/litt.png",
-                  "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/lilt.png"
-                },
-                {
-                  "id": "5007",
-                  "available": 10,
-                  "productname": "Yorkshire Tea",
-                  "psize": "YRKSTEA",
-                  "pic": "http://iskyworldsolution.com/test/product/productIcon/Yorkshire%20Tea.png",
-                  "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/YT.png"
-                },
-                {
-                  "id": "5008",
-                  "available": 24,
-                  "productname": "Semi-Skimmed Milk",
-                  "psize": "SEMISKIMMLK",
-                  "pic": "http://iskyworldsolution.com/test/product/productIcon/Semi-Skimmed%20M.png",
-                  "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/milk.png"
-                }
-              ]
             }
           ]
         }
