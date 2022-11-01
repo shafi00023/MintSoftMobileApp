@@ -183,46 +183,36 @@
   "locationData": [
     {
       "id": 1,
-      "item": "1 Item",
-      "location": "A101",
+      "palletname": "123456",
+      "location": "D101",
       "area": "Pallet, Main Warehouse",
-      "pallet": [
+      "cartons": [
         {
-          "palletId": "1234",
-          "cartons": [
+          "cartonId": "3411",
+          "product": [
             {
-              "cartonId": "4389",
-              "product": [
-                {
-                  "id": "5001",
-                  "available": 25,
-                  "productname": "Diet Coke",
-                  "psize": "DTCOKE1x330",
-                  "pic": "http://iskyworldsolution.com/test/product/productIcon/dietCoke.png",
-                  "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/dietCoke.png"
-                }
-              ]
+              "id": "5006",
+              "available": 25,
+              "productname": "Lilt",
+              "psize": "COKEZRO4x330",
+              "pic": "http://iskyworldsolution.com/test/product/productIcon/litt.png",
+              "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/lilt.png"
             },
             {
-              "cartonId": "6793",
-              "product": [
-                {
-                  "id": "5003",
-                  "available": 25,
-                  "productname": "Lilt",
-                  "psize": "COKEZRO4x330",
-                  "pic": "http://iskyworldsolution.com/test/product/productIcon/litt.png",
-                  "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/lilt.png"
-                },
-                {
-                  "id": "5004",
-                  "available": 10,
-                  "productname": "Yorkshire Tea",
-                  "psize": "YRKSTEA",
-                  "pic": "http://iskyworldsolution.com/test/product/productIcon/Yorkshire%20Tea.png",
-                  "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/YT.png"
-                }
-              ]
+              "id": "5007",
+              "available": 10,
+              "productname": "Yorkshire Tea",
+              "psize": "YRKSTEA",
+              "pic": "http://iskyworldsolution.com/test/product/productIcon/Yorkshire%20Tea.png",
+              "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/YT.png"
+            },
+            {
+              "id": "5008",
+              "available": 24,
+              "productname": "Semi-Skimmed Milk",
+              "psize": "SEMISKIMMLK",
+              "pic": "http://iskyworldsolution.com/test/product/productIcon/Semi-Skimmed%20M.png",
+              "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/milk.png"
             }
           ]
         }
