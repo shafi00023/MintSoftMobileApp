@@ -51,19 +51,6 @@
       "location": "D101",
       "area": "Pallet, Main Warehouse",
       "available": 15
-    },
-    {
-      "id": 5,
-      "palletname": "",
-      "cartonname": "1274",
-      "productname": "Semi-Skimmed Milk",
-      "psize": "SEMISKIMMLK",
-      "pic": "http://iskyworldsolution.com/test/product/productIcon/Semi-Skimmed%20M.png",
-      "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/milk.png",
-      "item": "1 Item",
-      "location": "D101",
-      "area": "Pallet, Main Warehouse",
-      "available": 15
     }
   ],
   "cartondata": [
