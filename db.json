@@ -1,31 +1,4 @@
 {
-  "data": [
-    {
-      "id": 1,
-      "name": "Small Box",
-      "size": "100 x 100  x 100cm",
-      "pname": "Half"
-    },
-    {
-      "id": 2,
-      "name": "Medium Box",
-      "size": "200 x 200 x 200cm",
-      "pname": "Full"
-    },
-    {
-      "id": 3,
-      "name": "Large Box",
-      "size": "300 x 300 x 300cm",
-      "pname": "Double"
-    },
-    {
-      "id": 4,
-      "name": "Extra Large Box",
-      "size": "400 x 400 x 400cm",
-      "pname": "Extra Large"
-    }
-  ],
-
   "palletdata": [
     {
       "id": 1,
@@ -87,19 +60,6 @@
       "psize": "SEMISKIMMLK",
       "pic": "http://iskyworldsolution.com/test/product/productIcon/Semi-Skimmed%20M.png",
       "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/milk.png",
-      "item": "1 Item",
-      "location": "D101",
-      "area": "Pallet, Main Warehouse",
-      "available": 15
-    },
-    {
-      "id": 6,
-      "palletname": "",
-      "cartonname": "9876",
-      "productname": "Warburtons Tea Cookies",
-      "psize": "WBTONSTEACKE",
-      "pic": "http://iskyworldsolution.com/test/product/productIcon/warBis.png",
-      "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/Warburt.png",
       "item": "1 Item",
       "location": "D101",
       "area": "Pallet, Main Warehouse",
@@ -255,6 +215,35 @@
       "cartons": [
         {
           "cartonId": "156879",
+          "product": [
+            {
+              "id": "5006",
+              "available": 25,
+              "productname": "Lilt",
+              "psize": "COKEZRO4x330",
+              "pic": "http://iskyworldsolution.com/test/product/productIcon/litt.png",
+              "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/lilt.png"
+            },
+            {
+              "id": "5007",
+              "available": 10,
+              "productname": "Yorkshire Tea",
+              "psize": "YRKSTEA",
+              "pic": "http://iskyworldsolution.com/test/product/productIcon/Yorkshire%20Tea.png",
+              "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/YT.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "palletname": "",
+      "location": "D101",
+      "area": "Pallet, Main Warehouse",
+      "cartons": [
+        {
+          "cartonId": "12321",
           "product": [
             {
               "id": "5006",
