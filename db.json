@@ -238,6 +238,35 @@
     },
     {
       "id": 1,
+      "palletname": "908709",
+      "location": "D101",
+      "area": "Pallet, Main Warehouse",
+      "cartons": [
+        {
+          "cartonId": "156879",
+          "product": [
+            {
+              "id": "5006",
+              "available": 25,
+              "productname": "Lilt",
+              "psize": "COKEZRO4x330",
+              "pic": "http://iskyworldsolution.com/test/product/productIcon/litt.png",
+              "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/lilt.png"
+            },
+            {
+              "id": "5007",
+              "available": 10,
+              "productname": "Yorkshire Tea",
+              "psize": "YRKSTEA",
+              "pic": "http://iskyworldsolution.com/test/product/productIcon/Yorkshire%20Tea.png",
+              "displaypic": "http://iskyworldsolution.com/test/product/productIcon/displayImage/YT.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
       "palletname": "",
       "location": "D101",
       "area": "Pallet, Main Warehouse",
